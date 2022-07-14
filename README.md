@@ -19,21 +19,34 @@
 ## 技術スタック
 
 ### 言語
-C/C++/C#/Java/Kotlin/Elm/GAS
-
+#### 業務で使用したもの
+C#/Java/Kotlin/GAS
+#### 学生時代や個人開発で使用したもの
+C/C++//Elm/
 ### フレームワーク・ライブラリ等
-Unity/UniTask/UniRx/CorgiEngine/DOTWeen/DxLib/SDL/OpenGL
+#### 業務で使用したもの
+Unity
+#### 学生時代や個人開発で使用したもの
+UniTask/UniRx/CorgiEngine/DOTWeen/DxLib/SDL/OpenGL
 
 ## 職務経歴詳細
 現職（2020/04 ～）
 ### 3D RPG ソーシャルゲーム【C#/Unity】 (2020/06 ～ 2020/12) 
-### 2D RPG ソーシャルゲーム 【C#/Unity】（2021/01 ～ )
+- UI（サーバやデザインとの繋ぎ込みを含む）
+- おまかせ編成機能
+
+### 2D RPG ソーシャルゲーム 【C#/Unity】（2021/01 ～)
+- バトルロジック（新規スキル効果追加、新規シーケンス）
+- UI（サーバやデザインとの繋ぎ込みを含む）
+- バトルロジックの全体的なコードのリファクタリング
+- テストコード導入
 
 ### その他
 [UnityRoom](https://unityroom.com/users/gdh8w7eif1m0b9o5yxar)
 
 [火災体験VR](https://www.pref.tokushima.lg.jp/ippannokata/sangyo/ict/5009121)第7回「ICT（愛して）とくしま大賞」OSS協議会賞受賞（大学在籍時）
 
+理工学部優秀学生賞受賞(1,2,4年次)
 ## 意欲・興味
 - 
 ---
