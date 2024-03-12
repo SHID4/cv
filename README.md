@@ -36,7 +36,7 @@ UniTask/UniRx/CorgiEngine/DOTWeen/DxLib/SDL/OpenGL
 - バトルロジックの全体的なコードのリファクタリング
 - テストコード導入
 
-- ### スマートフォン向け 3D アクション対戦型 ゲーム 【C#/Unity/C++】（2023/01 ～)
+### スマートフォン向け 3D アクション対戦型 ゲーム 【C#/Unity/C++】（2023/01 ～)
 - 新規実装キャラクター実装（スキル・新システム・機能拡張等）
 - C++を使った内製ライブラリを利用したバトル中のサーバサイド開発
 - 一部オブジェクトの衝突判定の改善
@@ -45,7 +45,7 @@ UniTask/UniRx/CorgiEngine/DOTWeen/DxLib/SDL/OpenGL
 ### その他
 [UnityRoom](https://unityroom.com/users/gdh8w7eif1m0b9o5yxar)
 
-[火災体験VR](https://www.pref.tokushima.lg.jp/ippannokata/sangyo/ict/5009121)第7回「ICT（愛して）とくしま大賞」OSS協議会賞受賞（大学在籍時）
+[火災体験VR](https://www.pref.tokushima.lg.jp/ippannokata/sangyo/ict/5009121) 第7回「ICT（愛して）とくしま大賞」OSS協議会賞受賞（大学在籍時）
 
 理工学部優秀学生賞受賞(1,2,4年次)
 ## 意欲・興味
